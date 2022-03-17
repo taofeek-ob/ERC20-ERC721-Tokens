@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/TaoToken.sol": "SafeMath"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/TaoToken.sol": {
+			"keccak256": "0x39ad32c6d1ab94e6fee749b6156d9c6881492650263e5adedb5e1113d383da76",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cbaa1b5c175e54f4f94a3a7c34503daad9b590eb8ada101aa09aa813fd1db282",
+				"dweb:/ipfs/QmUvmfek4PUMGy7JAR4qfMQQjW5LEA8a2Afi5zBbz5LJPv"
+			]
+		}
+	},
+	"version": 1
+}
