@@ -25,3 +25,4 @@ ERC20 CA: https://rinkeby.etherscan.io/address/0x3c04d18ed7b4c3f5a3f7286e5d1c392
 
 ERC721 CA: https://rinkeby.etherscan.io/address/0x4ebd688313fbed6f04bde257e09bb42737dd9f26
  
+ IPFS LINK: https://ipfs.io/ipfs/QmPa5q8VnemW1yLUkQvKvmXGQXxLt5bb8Gji3RLGh4DXwW
